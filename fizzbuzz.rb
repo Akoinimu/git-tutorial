@@ -2,6 +2,8 @@
 
     if i%15==0
       puts "FizzBuzz"
+    elsif i%7==0
+      puts "git"
     elsif i%5 ==0
       puts "Buzz"
     elsif i%3==0
